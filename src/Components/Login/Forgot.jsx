@@ -210,7 +210,7 @@ function Forgot() {
         <div className="login-content-wrapper">
           <div className="login-box">
             <div className="logo-section">
-              <img src="/HR portal logo.png" alt="logo" className="logo" />
+              <img src="/gemini-svg.svg" alt="logo" className="logo" />
             </div>
 
             <h5 className={`text-center ${otpSent ? "mb-1" : "mb-4"}`} style={{ color: '#3B3C58', fontWeight: '600' }}>

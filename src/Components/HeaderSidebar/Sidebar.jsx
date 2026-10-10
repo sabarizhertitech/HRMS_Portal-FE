@@ -1470,7 +1470,7 @@ function Sidebar() {
 
       <aside className={`sidebar-container ${isMobileMenuOpen ? "mobile-open" : ""}`}>
         <div className="sidebar-brand">
-          <img src="/HR portal logo.png" alt="HR Portal" />
+          <img src="/gemini-svg.svg" alt="HR Portal" />
           <img
             src="/close.png"
             className="sidebar-close-mobile-btn"

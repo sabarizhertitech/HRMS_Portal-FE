@@ -227,7 +227,7 @@ function Login() {
         <div className="login-content-wrapper">
           <div className="login-box">
             <div className="logo-section">
-              <img src="/HR portal logo.png" alt="logo" className="logo" />
+              <img src="/gemini-svg.svg" alt="logo" className="logo" />
             </div>
 
             <form onSubmit={handleLogin} autoComplete="off">
